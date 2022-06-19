@@ -659,14 +659,7 @@ line-height: 19px;
   }
 
 
-.container-footer {
-  width: 1200px;
-  margin: auto;
-  padding-left: 15px;
-  padding-right: 15px;
-  display: flex;
-  align-items: baseline;
-}
+
 
 
 
@@ -679,6 +672,7 @@ line-height: 19px;
     letter-spacing: 0.03em;
     color: var(--accent-color);
     display: block;
+   
     margin-right: 93px;
     padding-top: 24px;
     padding-bottom: 25px;}
@@ -718,6 +712,8 @@ line-height: 19px;
 .footer-address-contact:focus {
   color: var(--accent-color);
 }
+
+
 
 
 .footer-social-text {
