@@ -204,6 +204,10 @@ img {
     fill: rgba(117, 117, 117, 1);
    }
 
+   .icon{
+    margin-right: 10px;
+   }
+
    .header-contact-link:hover .icon,
    .header-contact-link:focus .icon {
   color: var(--accent-color);
